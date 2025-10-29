@@ -1,0 +1,15 @@
+{
+  "name": "mcp-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/mcp": "^0.0.44"
+  }
+}
